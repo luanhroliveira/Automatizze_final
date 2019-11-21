@@ -1,0 +1,5 @@
+4 256
+c:\Program Files (x86)\Google
+c:\Program Files\Java
+c:\Program Files(x86)\Adobe Acrobat Reader DC
+c:\Program Files\Adobe

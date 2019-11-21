@@ -1,0 +1,8 @@
+7 512
+programas_exe\\flashplayer32pp_xa_install.exe
+programas_exe\\winrar-x64-571br.exe
+programas_exe\\ChromeSetup.exe
+programas_exe\\Firefox-Installer.exe
+programas_exe\\JavaSetup8u221.exe
+programas_exe\\LibreOffice_6.3.3_Win_x64.exe
+programas_exe\\avast_free_antivirus_setup_online.exe
